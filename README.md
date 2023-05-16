@@ -1,5 +1,5 @@
 # **Web Scrapping of World Population Data**
-#### From website https://www.worldometers.info/world-population/population-by-country/ , I scraped tabular data of countries with their population in 2020, Yearly change in %, Net change, Density in Person/ sq. Km, Land area in sq. km, Migrants (Net), Fertility rate, Median age, Urban population in % and World share.
+### From website https://www.worldometers.info/world-population/population-by-country/ , I scraped tabular data of countries with their population in 2020, Yearly change in %, Net change, Density in Person/ sq. Km, Land area in sq. km, Migrants (Net), Fertility rate, Median age, Urban population in % and World share.
 
 #### Description of columns:-
 #### **1. population (2020)** - Total population in whole numbers from 2020 survey.
@@ -13,4 +13,5 @@
 #### **9. Urban population %** - Total population living in big cities to the overall population of that country in percentage. data in decimal numbers.
 #### **10. World share** - Each country percentage share to the world population in percentage in decimal numbers.
 
-#### Used Python libraries to scrape the data from website. Pandas, BeautifulSoup, 
+### Used Python libraries to scrape the data from website. Pandas, Requests, BeautifulSoup, Selenium and Scrapy.
+## Created a dashboard using Tableau software for data visualization. 
